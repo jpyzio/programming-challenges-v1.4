@@ -1,0 +1,19 @@
+{
+  "name": "spid3rpl/name-generator",
+  "description": "",
+  "type": "project",
+  "require-dev": {
+    "phpunit/phpunit": "^7.3@dev"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Spid3r",
+      "email": "it@spid3r.pl"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.2"
+  }
+}
